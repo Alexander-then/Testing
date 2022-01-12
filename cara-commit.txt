@@ -1,1 +1,3 @@
 Ini cara membuat commit
+Saya mengedit data commit 
+Saya juga akan menambah beberapa data ke commit ini.
